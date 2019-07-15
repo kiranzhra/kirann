@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_post"
+            android:icon="@drawable/ic_local_post_office_black_24dp"
+            android:title="Post" />
+        <item
+            android:id="@+id/nav_job_staus"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="User profile" />
+        <item
+            android:id="@+id/nav_message"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="Message" />
+        <item
+            android:id="@+id/nav_record"
+            android:icon="@drawable/ic_filter_none_black_24dp"
+            android:title="Reord" />
+    </group>
+
+
+
+
+</menu>

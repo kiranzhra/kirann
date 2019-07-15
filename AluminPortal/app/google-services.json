@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95420574341",
+    "firebase_url": "https://aluminportal.firebaseio.com",
+    "project_id": "aluminportal",
+    "storage_bucket": "aluminportal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95420574341:android:754cebbcf4c12782",
+        "android_client_info": {
+          "package_name": "fyp.app.aluminportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95420574341-77b8rgl4tn9ho2eaj9g9ri3414bcsgcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByBGeSYBd32nkp9trjfOa9b8IUajhAcEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95420574341-77b8rgl4tn9ho2eaj9g9ri3414bcsgcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
